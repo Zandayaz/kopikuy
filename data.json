@@ -1,64 +1,57 @@
 {
-    "electric": [
+    "arabica": [
         {
-            "foto": "images/produk/Wuling-Air-ev.jpg",
-            "nama": "Wuling Air ev",
-            "range": "Range 200km",
-            "harga": "295.000.000",
-            "link": "https://www.google.com/search?q=Wuling+Air+ev&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk/All-New-Nissan-Leaf.jpg",
-            "nama": "Nissan Leaf",
-            "range": "Range 311km",
-            "harga": "730.000.000",
-            "link": "https://www.google.com/search?q=Nissan+Leaf&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk/Hyundai-Ioniq-5.jpg",
-            "nama": "Hyundai Ioniq 5",
-            "range": "Range 384km",
-            "harga": "750.000.000",
-            "link": "https://www.google.com/search?q=Hyundai+Ioniq+5&sca_esv=555729795&tbm=shop"
-        },
-        {
-            "foto": "images/produk/Hyundai-Kona-Electric-Facelift-2021.jpg",
-            "nama": "Hyundai Kona Electric",
-            "range": "Range 384km",
-            "harga": "750.000.000",
-            "link": "https://www.google.com/search?q=Hyundai+Kona+Electric&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
     ],
-    "hybrid": [
+    "robusta": [
         {
-            "foto": "images/produk/Toyota-C-HR-TSS.jpg",
-            "nama": "Toyota C-HR Hybrid",
-            "range": "1798 cc",
-            "harga": "585.000.000",
-            "link": "https://www.google.com/search?q=Toyota+C-HR+Hybrid&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
-            "foto": "images/produk/new-corolla-altis-carmudi3.jpg",
-            "nama": "Toyota Corolla Altis Hybrid",
-            "range": "1798 cc",
-            "harga": "545.000.000",
-            "link": "https://www.google.com/search?q=Toyota+Corolla+Altis+Hybrid&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
-	"sport": [
+    "nonkopi": [
         {
-            "foto": "images/produk/AudiTTSCoupe.jpg",
-            "nama": "Audi TTS Coupe",
-            "range": "306 PS",
-            "harga": "1.95 Milyar",
-            "link": "https://www.google.com/search?q=Audi+TTS+Coupe&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/es_campur.jpg",
+            "nama": "Es Campur",
+            "size": "500 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=es+campur&tbm=shop"
         },
         {
-            "foto": "images/produk/BMW Z4.jpg",
-            "nama": "BMW Z4",
-            "range": "258 PS",
-            "harga": "1.69 Milyar",
-            "link": "https://www.google.com/search?q=BMW+Z4&sca_esv=555729795&tbm=shop"
+            "foto": "images/produk/es_dawet.jpg",
+            "nama": "Es Dawet",
+            "size": "150 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=es+dawet&tbm=shop"
         }
     ]
 }
